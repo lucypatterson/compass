@@ -5,11 +5,11 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/lucy.png"
   # author will appear under the avatar (optional)
   author: "Lucy Patterson"
   # tagline will appear under the title (optional)
-  tagline: "escaped scientist with Stockholm Syndrome #openscience #informalscience #maker #sciart"
+  tagline: "Escaped scientist with Stockholm Syndrome | #openscience | informal science | maker | diy science | #sciart | berlin"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
